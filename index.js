@@ -1,6 +1,6 @@
 console.log("News Website");
 
-// API KEY - 349d85d03f0d4fdfb933112f05d1db51
+
 let newsAccordion = document.getElementById("newsaccordion");
 
 // Creating an AJAX GET request.
